@@ -7,7 +7,7 @@ contact centers in any government that supports the standard. The current specif
 non-emergency issues such as graffiti, potholes, and street cleaning.
 
 # FixMyStreet
-Check out our demo site [here](http://fixmystreet.lab9k.gent:8000).
+Check out our demo site [here](http://fms.lab9k.gent).
 
 ## Purpose
 [FixMyStreet](http://fixmystreet.org/overview/) is a highly customisable opensource project by [mySociety](https://www.mysociety.org/). It aims to 
