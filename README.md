@@ -104,3 +104,9 @@ This returns the following json:
             "type": "RED"
         }
     }
+
+## Associated Repositories
++ [FixMyStreet](https://github.com/mysociety/fixmystreet)
++ [FixMyStreet mobile](https://github.com/mysociety/fixmystreet-mobile)
++ [FixMyStreet international](https://github.com/mysociety/fixmystreet-international)
++ [MapIt](https://github.com/mysociety/mapit)
