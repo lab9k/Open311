@@ -50,12 +50,17 @@ When a body is created you can assign all the categories of problem and all regi
 has jurisdiction. As well as employees of these bodies, who may review, respond, solve, publish,... 
 problems for that body.
 
+![EditBody](./images/fms_bodies_config.png)
+
+
 Read more on managing bodies and contacts [here](http://fixmystreet.org/running/bodies_and_contacts/).
 
 ## Assigning reports to bodies
 When a user reports a problem they also submit a location and a category. Categories can for instance include fly 
 tipping, nuisances, potholes and so forth. FixMystreet will on the bases of the problem's location and the category find 
 the responsible body. It does this with a webservice called MapIt, which you can host and configure yourselves.
+
+![WorkFlow](./images/fms_bodies_and_contacts_workflow.png)
 
 ### Mapit
 We have our own [MapIt deployment](https://mapit.lab9k.gent/) with very specific information for Ghent.
